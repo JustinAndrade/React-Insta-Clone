@@ -1,0 +1,9 @@
+.post-header {
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    height: 30px;
+    border-radius: 30px;
+}
